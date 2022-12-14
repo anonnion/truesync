@@ -1,0 +1,15 @@
+{
+    "$schema": "https://getcomposer.org/schema.json",
+    "items":
+        {
+            "item-233dw8hwejds": {
+                "name": "My music folder",
+                "absolutePath": "/home/anon/projects/tests/music",
+                "rules": {
+                    "exclude": [],
+                    "include": [],
+                    "ignore": []
+                }
+            }
+        }
+}

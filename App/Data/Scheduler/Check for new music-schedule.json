@@ -1,0 +1,5 @@
+{
+    "name" : "Check for new music",
+    "interval" : "10000",
+    "callable": "$func"
+}

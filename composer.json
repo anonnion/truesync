@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nunomaduro/termwind": "^1.14",
+        "lazzard/php-ftp-client": "^1.7"
+    }
+}
